@@ -12,14 +12,11 @@ about_me ={
 "have_discord": True,
 "username": "!Tins#3306",
 "pronuns": ["he","him"],
-"from":"🇻🇳"
+"from":"🇻🇳",
+"languages":["python","html","markdown"]
 }
 ```
 
 ### Stats
 
-### Stats
-
 ![image](https://github-readme-stats.vercel.app/api?username=hnguyen1910&count_private=1&theme=vue)
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=hnguyen1910&layout=compact)
-
