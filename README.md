@@ -3,8 +3,8 @@ Hi, welcome to my profile
 # About me?
 
 ```py
-about_me =
-{"working_on":"tinoy bot",
+about_me ={
+"working_on":"tinoy bot",
 "love":"coding 👨‍💻",
 "job":"student :)",
 "have_discord":True,
