@@ -1,8 +1,8 @@
-Hi, welcome to my profile 
-
 ![](https://komarev.com/ghpvc/?username=hnguyen1910&color=orange)
 
-# About me?
+### Hi there! ✌️
+
+Welcome to my profile 
 
 ```py
 about_me ={
@@ -12,7 +12,8 @@ about_me ={
 "have_discord":True,
 "username":"!Tins#3306",
 "pronuns":"he/him 🚹",
-"facts":"i'm dumb 🤪"
+"facts":"i'm dumb 🤪",
+"from":"🇻🇳"
 }
 ```
 
