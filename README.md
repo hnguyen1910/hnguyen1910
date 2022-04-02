@@ -23,8 +23,8 @@ about_me ={
 
 ### Fun Facts
 1.I'm dumb 🤪
-2.Only 1 fun facts in here
-3.If you after read 2 and continue read this,you're dumb like me :) so let's be friend ( i like to be friend of everyone!)
+<br /> 2.Only 1 fun facts in here
+<br /> 3.If you after read 2 and continue read this,you're dumb like me :) so let's be friend ( i like to be friend of everyone!)
 
 ### Projects
 | **Favorite project**| **Language** |
