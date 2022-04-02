@@ -24,9 +24,9 @@ about_me ={
 ### Fun Facts
 1.I'm dumb 🤪
 2.Only 1 fun facts in here
-3.If you after read 2 and continue read this,you're dumb like me :)
+3.If you after read 2 and continue read this,you're dumb like me :) so let's be friend ( i like to be friend of everyone!)
 
-#Projects
+### Projects
 | **Favorite project**| **Language** |
 | - | - |
 | [![Tinoy-Bot](https://img.shields.io/static/v1?label=&message=Tinoy-Bot&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/hnguyen1910/tinoy-bot) | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) |
