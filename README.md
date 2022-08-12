@@ -27,8 +27,8 @@ about_me = {
 <br /> 3.If you after read 2 and continue read this,you're dumb like me :) so let's be friend ( i like to be friend of everyone!)
 
 ### Projects
-[Website](tins.ml)
-[Link Shortener](r.tins.ml)
+- [Website](tins.ml)
+- [Link Shortener](r.tins.ml)
 
 
 <!-- ### Projects
