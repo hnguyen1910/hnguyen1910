@@ -6,7 +6,7 @@ Welcome to my profile
 
 ```py
 about_me = {
-"working_on":"tinoy bot",
+"working_on":"nothing",
 "love":"coding 👨‍💻",
 "job":"student :)",
 "have_discord": True,
@@ -25,6 +25,11 @@ about_me = {
 1.I'm dumb 🤪
 <br /> 2.Only 1 fun facts in here
 <br /> 3.If you after read 2 and continue read this,you're dumb like me :) so let's be friend ( i like to be friend of everyone!)
+
+### Projects
+[Website](tins.ml)
+[Link Shortener](r.tins.ml)
+
 
 <!-- ### Projects
 | **Favorite project**| **Language** |
