@@ -22,9 +22,7 @@ about_me = {
 ![image](https://github-readme-stats.vercel.app/api?username=hnguyen1910&count_private=1&theme=vue)
 
 ### Fun Facts
-1.I'm dumb 🤪
-<br /> 2.Only 1 fun facts in here
-<br /> 3.If you after read 2 and continue read this,you're dumb like me :) so let's be friend ( i like to be friend of everyone!)
+1.I'm dumb 🤪 (just kidding)
 
 ### Projects
 - [Website](https://tins.ml)
