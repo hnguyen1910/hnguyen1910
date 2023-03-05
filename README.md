@@ -25,8 +25,8 @@ about_me = {
 1.I'm dumb 🤪 (just kidding)
 
 ### Projects
-- [Website](https://tins.ml)
-- [Link Shortener](https://r.tins.ml)
+- [Website](https://tinvn.eu.org)
+- [Link Shortener](https://r.tinvn.eu.org)
 
 
 <!-- ### Projects
