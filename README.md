@@ -13,7 +13,7 @@ about_me = {
 "username": "!Tins#3306",
 "pronuns": ["he","him"],
 "from":"🇻🇳",
-"languages":["python","html","markdown"]
+"languages":["python","html"]
 }
 ```
 
