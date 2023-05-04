@@ -10,7 +10,7 @@ about_me = {
 "love":"coding 👨‍💻",
 "job":"student :)",
 "have_discord": True,
-"username": "!Tins#3306",
+"username": "TinVN#4036",
 "pronuns": ["he","him"],
 "from":"🇻🇳",
 "languages":["python","html"]
