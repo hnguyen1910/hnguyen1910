@@ -10,10 +10,11 @@ about_me = {
 "love":"coding 👨‍💻",
 "job":"student :)",
 "have_discord": True,
-"username": "TinVN#4036",
-"pronuns": ["he","him"],
+"username": "hntinvn",
+"pronuns": "he/him",
 "from":"🇻🇳",
-"languages":["python","html"]
+"languages":("vietnamese","english"),
+"learning":"["python","js","html","css"]
 }
 ```
 
@@ -21,12 +22,8 @@ about_me = {
 
 ![image](https://github-readme-stats.vercel.app/api?username=hnguyen1910&count_private=1&theme=vue)
 
-### Fun Facts
-1.I'm dumb 🤪 (just kidding)
-
 ### Projects
 - [Website](https://tinvn.eu.org)
-- [Link Shortener](https://r.tinvn.eu.org)
 
 
 <!-- ### Projects
