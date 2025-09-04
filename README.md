@@ -14,7 +14,8 @@ about_me = {
 "pronuns": "he/him",
 "from":"🇻🇳",
 "languages":("vietnamese","english"),
-"learning":"["python","js","html","css"]
+"learning":"["python","js","html","css"],
+"my code is kinda trash to be honest": True
 }
 ```
 
